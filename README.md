@@ -239,4 +239,4 @@ One CSV per year, with columns `Date, Ticker1, Ticker2, ...` and rows representi
 
 ---
 
-*Last updated: 2025-07-18*
+*Last updated: 2026-07-18*
